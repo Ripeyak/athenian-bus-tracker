@@ -1,5 +1,19 @@
 stop_lon,stop_name,stop_lat,stop_id,location_type
--122.072761,Lafayette BART Station,37.533584,1,0
--122.025992,Rudgear Bus Stop,37.524492,2,0
--122.015937,Alamo Plaza Bus Stop,37.510511,3,0
--122.000437,Danville Bus Stop,37.492418,4,0
+Lafayette
+-122.124,Lafayette BART Station,37.8938,1,0
+-122.149838,Rudgear Bus Stop,37.878921,2,0
+-122.033221,Alamo Plaza Bus Stop,37.851263,3,0
+-122.001046,Danville Bus Stop,37.492418,4,0
+
+Rockridge
+-122.251385,Rockridge BART,37.844715,1,0
+-122.183723,Orinda BART,37.878415,2,0
+
+Pleasanton
+-121.899,Pleasanton BART,37.7017,1,0
+-121.915771,Old Ranch At Summit View Drive,37.739347,2,0
+-121.938526,Montevideo Drive At Alcosta Boulevard,37.75359,3,0
+-121.951896,Alcosta Boulevard At Bollinger Canyon Road,37.765626,4,0
+-121.932095,Bollinger Canyon Road At N Gale Ranch Road,37.772428,5,0
+-121.925471,Dougherty At Red Willow Road,37.786737,6,0
+-121.922131,Crow Canyon Road At Center Way,37.796913,7,0
