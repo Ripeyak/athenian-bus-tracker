@@ -1,0 +1,5 @@
+stop_lon,stop_name,stop_lat,stop_id,location_type
+-122.072761,Lafayette BART Station,37.533584,1,0
+-122.025992,Rudgear Bus Stop,37.524492,2,0
+-122.015937,Alamo Plaza Bus Stop,37.510511,3,0
+-122.000437,Danville Bus Stop,37.492418,4,0
